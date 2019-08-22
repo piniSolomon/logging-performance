@@ -1,0 +1,23 @@
+{
+  "name": "logging-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piniSolomon/logging-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piniSolomon/logging-performance/issues"
+  },
+  "homepage": "https://github.com/piniSolomon/logging-performance#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
