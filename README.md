@@ -11,6 +11,7 @@ npm install -g typescript
 tsc
 
 ```
+down to business
 ```
 docker build --tag=logger-tester . 
 
