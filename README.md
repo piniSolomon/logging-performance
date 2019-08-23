@@ -11,7 +11,7 @@ npm install -g typescript
 tsc
 
 ```
-
+```
 docker build --tag=logger-tester . 
 
 docker run --name logtest logger-tester
