@@ -1,5 +1,5 @@
 # Logging-Performance
-the question was if logging to console causes a degradation in performance while running inside docker that supposedly does not have a screen attach to it
+the question was if logging to console causes a degradation in performance while running inside docker that supposedly does not have a screen attach to it????
 
 it's written in typescript :)
 
