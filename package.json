@@ -19,5 +19,8 @@
   "homepage": "https://github.com/piniSolomon/logging-performance#readme",
   "dependencies": {
     "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2"
   }
 }
