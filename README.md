@@ -15,7 +15,7 @@ down to business
 ```
 docker build --tag=logger-tester . 
 
-docker run --name logtest logger-tester
+docker run -d --name logtest logger-tester
 
 docker cp logtest:/app/tester.log .
 
